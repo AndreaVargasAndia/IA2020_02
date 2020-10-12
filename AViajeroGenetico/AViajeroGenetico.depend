@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1602464562 source:c:\users\andrea\documents\aviajerogenetico\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+
